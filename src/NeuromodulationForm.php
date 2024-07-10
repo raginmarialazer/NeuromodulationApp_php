@@ -49,7 +49,7 @@
                     <label for="question_2">2. Please rate your pain based on the number that best describes your pain at it’s WORST in the past week.</label>
                     <br> 
                     <div class="form-check form-check-inline">
-                        <input class="form-check-input" type="radio" name="question_2_inlineRadioOptions" id="question_2_inlineRadio1" value="1">
+                        <input required class="form-check-input" type="radio" name="question_2_inlineRadioOptions" id="question_2_inlineRadio1" value="1">
                         <label class="form-check-label" for="question_2_inlineRadio1">1</label>
                     </div>
                     <div class="form-check form-check-inline">
@@ -93,7 +93,7 @@
                     <label for="question_3">3. Please rate your pain based on the number that best describes your pain at it’s LEAST in the past week.</label>
                     <br>
                     <div class="form-check form-check-inline">
-                        <input class="form-check-input" type="radio" name="question_3_inlineRadioOptions" id="question_3_inlineRadio1" value="1">
+                        <input required class="form-check-input" type="radio" name="question_3_inlineRadioOptions" id="question_3_inlineRadio1" value="1">
                         <label class="form-check-label" for="question_3_inlineRadio1">1</label>
                     </div>
                     <div class="form-check form-check-inline">
@@ -137,7 +137,7 @@
                     <label for="question_4">4. Please rate your pain based on the number that best describes your pain on the Average.</label>
                     <br>
                     <div class="form-check form-check-inline">
-                        <input class="form-check-input" type="radio" name="question_4_inlineRadioOptions" id="question_4_inlineRadio1" value="1">
+                        <input required class="form-check-input" type="radio" name="question_4_inlineRadioOptions" id="question_4_inlineRadio1" value="1">
                         <label class="form-check-label" for="question_4_inlineRadio1">1</label>
                     </div>
                     <div class="form-check form-check-inline">
@@ -181,7 +181,7 @@
                     <label for="question_5">5. Q5 - Please rate your pain based on the number that best describes your pain that tells how much pain you have RIGHT NOW.</label>
                     <br>
                     <div class="form-check form-check-inline">
-                        <input class="form-check-input" type="radio" name="question_5_inlineRadioOptions" id="question_5_inlineRadio1" value="1">
+                        <input required class="form-check-input" type="radio" name="question_5_inlineRadioOptions" id="question_5_inlineRadio1" value="1">
                         <label class="form-check-label" for="question_5_inlineRadio1">1</label>
                     </div>
                     <div class="form-check form-check-inline">
@@ -225,7 +225,7 @@
                     <label for="question_6">6. Based on the number that best describes how during the past week pain has INTERFERED with your: General Actvity.</label>
                     <br>
                     <div class="form-check form-check-inline">
-                        <input class="form-check-input" type="radio" name="question_6_inlineRadioOptions" id="question_6_inlineRadio1" value="1">
+                        <input required class="form-check-input" type="radio" name="question_6_inlineRadioOptions" id="question_6_inlineRadio1" value="1">
                         <label class="form-check-label" for="question_6_inlineRadio1">1</label>
                     </div>
                     <div class="form-check form-check-inline">
@@ -269,7 +269,7 @@
                     <label for="question_7">7. Based on the number that best describes how during the past week pain has INTERFERED with your: Mood.</label>
                     <br>
                     <div class="form-check form-check-inline">
-                        <input class="form-check-input" type="radio" name="question_7_inlineRadioOptions" id="question_7_inlineRadio1" value="1">
+                        <input required class="form-check-input" type="radio" name="question_7_inlineRadioOptions" id="question_7_inlineRadio1" value="1">
                         <label class="form-check-label" for="question_7_inlineRadio1">1</label>
                     </div>
                     <div class="form-check form-check-inline">
@@ -313,7 +313,7 @@
                     <label for="question_8">8. Based on the number that best describes how during the past week pain has INTERFERED with your: Walking ability.</label>
                     <br>
                     <div class="form-check form-check-inline">
-                        <input class="form-check-input" type="radio" name="question_8_inlineRadioOptions" id="question_8_inlineRadio1" value="1">
+                        <input required class="form-check-input" type="radio" name="question_8_inlineRadioOptions" id="question_8_inlineRadio1" value="1">
                         <label class="form-check-label" for="question_8_inlineRadio1">1</label>
                     </div>
                     <div class="form-check form-check-inline">
@@ -357,7 +357,7 @@
                     <label for="question_9">9. Based on the number that best describes how during the past week pain has INTERFERED with your: Normal work (includes work both outside the home and housework).</label>
                     <br>
                     <div class="form-check form-check-inline">
-                        <input class="form-check-input" type="radio" name="question_9_inlineRadioOptions" id="question_9_inlineRadio1" value="1">
+                        <input required class="form-check-input" type="radio" name="question_9_inlineRadioOptions" id="question_9_inlineRadio1" value="1">
                         <label class="form-check-label" for="question_9_inlineRadio1">1</label>
                     </div>
                     <div class="form-check form-check-inline">
@@ -401,7 +401,7 @@
                     <label for="question_10">10. Based on the number that best describes how during the past week pain has INTERFERED with your: RelaTonships with other people.</label>
                     <br>
                     <div class="form-check form-check-inline">
-                        <input class="form-check-input" type="radio" name="question_10_inlineRadioOptions" id="question_10_inlineRadio1" value="1">
+                        <input required class="form-check-input" type="radio" name="question_10_inlineRadioOptions" id="question_10_inlineRadio1" value="1">
                         <label class="form-check-label" for="question_10_inlineRadio1">1</label>
                     </div>
                     <div class="form-check form-check-inline">
@@ -445,7 +445,7 @@
                     <label for="question_11">11. Based on the number that best describes how during the past week pain has INTERFERED with your: Sleep.</label>
                     <br>
                     <div class="form-check form-check-inline">
-                        <input class="form-check-input" type="radio" name="question_11_inlineRadioOptions" id="question_11_inlineRadio1" value="1">
+                        <input required class="form-check-input" type="radio" name="question_11_inlineRadioOptions" id="question_11_inlineRadio1" value="1">
                         <label class="form-check-label" for="question_11_inlineRadio1">1</label>
                     </div>
                     <div class="form-check form-check-inline">
@@ -489,7 +489,7 @@
                     <label for="question_12">12. Based on the number that best describes how during the past week pain has INTERFERED with your: Enjoyment of life</label>
                     <br>
                     <div class="form-check form-check-inline">
-                        <input class="form-check-input" type="radio" name="question_12_inlineRadioOptions" id="question_12_inlineRadio1" value="1">
+                        <input required class="form-check-input" type="radio" name="question_12_inlineRadioOptions" id="question_12_inlineRadio1" value="1">
                         <label class="form-check-label" for="question_12_inlineRadio1">1</label>
                     </div>
                     <div class="form-check form-check-inline">

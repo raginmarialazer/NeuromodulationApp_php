@@ -1,9 +1,11 @@
 # NeuromodulationApp_php
 An application with simple form which can be filled in and depending on the  responses will then calculate a total score.
 Initial commit test
- 
-Hosted in IIS , mapped under defaultapllicationpool
-in db created user in default app pool and given permissions
+
+Set up:
+Root folder created : C:\Neuromodulation\NeuromodulationApp_php
+Hosted in IIS , mapped under defaultapllicationpool (for settings refer: assets/image_iis.png)
+in db created user ragin and given all permissions (included in script.sql)
 
 URL for 1st form (NeuromodulaTon): http://localhost:{port#}/NeuromodulationForm.php
 URL for 2nd form (Admin view) : http://localhost:{port#}/Admin.php
