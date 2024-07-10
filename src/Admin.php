@@ -52,6 +52,7 @@ $patients = $crud->getAllPatientsAndScores();
 
         </tbody>
     </table>
+    <a  href="NeuromodulationForm.php" class="btn btn-secondary btn-sm mt-4 mb-4" >Back to Form</a>
 </div>
 </body>
 </html>

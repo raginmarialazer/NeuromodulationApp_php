@@ -551,6 +551,7 @@ $patient = $crud->GetById($patientId);
                 </div> 
             </div>
         </div>
+                    <a  href="Admin.php" class="btn btn-secondary btn-sm mt-4 mb-4" >Back</a>
                     <a  href="editForm.php?Id=<?php echo $patientId; ?>" class="btn btn-primary btn-sm mt-4 mb-4" >Edit</a>
                     <a  href="delete.php?Id=<?php echo $patientId; ?>" class="btn btn-danger btn-sm mt-4 mb-4" onclick="return confirm('Are you sure to delete?');">Delete</a>
     </form>

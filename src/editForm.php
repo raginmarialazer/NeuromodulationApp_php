@@ -552,6 +552,7 @@ $patient = $crud->GetById($patientId);
         </div>
         
         <button type="submit" class="btn btn-primary mt-4 mb-4">Submit</button>
+        <a  href="Admin.php" class="btn btn-secondary mt-4 mb-4" >Cancel</a>
     </form>
     </div>
 </body>
