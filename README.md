@@ -22,3 +22,5 @@ extension=php_pdo_sqlsrv_83_nts_x64.dll
 extension=php_sqlsrv_83_nts_x64.dll
 
 local variable values are stored in .env file (installed vlucas/phpdotenv for creating .env file)
+
+Demo screen record : assets\NeuromodulationAppDemo.mp4
